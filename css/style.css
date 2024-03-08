@@ -165,14 +165,16 @@ h5{
     background: #F4F4F4;
     color: #000000;
 }
-.planing{
+.planing {
     width: 100%;
     border-radius: 20px;
     background: #464142;
-    padding: 50px;
+    padding: 20px 40px;
     display: flex;
-    margin-top: -75px;
+    margin-top: -43px;
 }
+
+
 .planing-main{
     width: 100%;
     display: flex;
@@ -318,6 +320,9 @@ h5{
    height: 220px;
 }
 .box-info{
+    
+}
+.box-info{
     margin-top: 30px;
 }
 .box-info ul {
@@ -325,6 +330,7 @@ h5{
 }
 .box-info ul li{
     margin-top: 8px;
+    font-size: 20px;
     list-style: disc;
 }
 
@@ -361,8 +367,7 @@ h5{
     color: #FFF;
 }
 .contact-main-all{
-    display: flex;
-    align-items: center;
+    
     margin-bottom: 50px;
 }
 
